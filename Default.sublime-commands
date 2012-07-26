@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Pandoc Table",
+        "command": "pandoc_table"
+    }
+]

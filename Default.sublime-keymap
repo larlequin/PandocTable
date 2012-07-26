@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+alt+shift+t"],
+    "command":"pandoc_table",
+    "context":[{"key": "selector", "operator": "equal", "operand": "text.pandoc" }]}
+]

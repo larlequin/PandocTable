@@ -1,0 +1,18 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Pandoc Table",
+                "children":
+                [
+                    {
+                        "caption": "Pandoc Table",
+                        "command": "pandoc_table"
+                    }
+                ]
+            }
+        ]
+    }
+]
